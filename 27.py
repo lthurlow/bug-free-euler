@@ -67,4 +67,5 @@ for x in range(MAX,MIN,-1):
         coeff[1] = y
         #print "%d,%d: %d" % (x,y,t)
 
+print coeff[0],coeff[1]
 print coeff[0]*coeff[1]
